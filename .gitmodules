@@ -1,0 +1,3 @@
+[submodule "jsonresume-theme-elegant"]
+	path = jsonresume-theme-elegant
+	url = git@github.com:mrseanryan/jsonresume-theme-elegant.git
